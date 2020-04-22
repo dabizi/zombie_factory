@@ -1,7 +1,6 @@
-### All code comes from the excellent cryptozombies website ###
-### This is from the code from lesson 1 ###
-### See https://cryptozombies.io/en/course for more info ###
-
+// All code comes from the excellent cryptozombies website
+// This is from the code from lesson 1 
+// See https://cryptozombies.io/en/course for more info
 
 pragma solidity >=0.5.0 <0.6.0;
 
